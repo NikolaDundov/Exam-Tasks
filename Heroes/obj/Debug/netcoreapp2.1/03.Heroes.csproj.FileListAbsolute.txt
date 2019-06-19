@@ -1,0 +1,11 @@
+D:\SoftUni\C# Advanced\Exam\03. Heroes_Скелет\bin\Debug\netcoreapp2.1\03.Heroes.deps.json
+D:\SoftUni\C# Advanced\Exam\03. Heroes_Скелет\bin\Debug\netcoreapp2.1\03.Heroes.runtimeconfig.json
+D:\SoftUni\C# Advanced\Exam\03. Heroes_Скелет\bin\Debug\netcoreapp2.1\03.Heroes.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\Exam\03. Heroes_Скелет\bin\Debug\netcoreapp2.1\03.Heroes.dll
+D:\SoftUni\C# Advanced\Exam\03. Heroes_Скелет\bin\Debug\netcoreapp2.1\03.Heroes.pdb
+D:\SoftUni\C# Advanced\Exam\03. Heroes_Скелет\obj\Debug\netcoreapp2.1\03.Heroes.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced\Exam\03. Heroes_Скелет\obj\Debug\netcoreapp2.1\03.Heroes.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\Exam\03. Heroes_Скелет\obj\Debug\netcoreapp2.1\03.Heroes.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\Exam\03. Heroes_Скелет\obj\Debug\netcoreapp2.1\03.Heroes.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\Exam\03. Heroes_Скелет\obj\Debug\netcoreapp2.1\03.Heroes.dll
+D:\SoftUni\C# Advanced\Exam\03. Heroes_Скелет\obj\Debug\netcoreapp2.1\03.Heroes.pdb
