@@ -1,0 +1,11 @@
+D:\SoftUni\C# Advanced\Exam\03. Repository_Скелет\Repository\bin\Debug\netcoreapp2.1\03.Repository.deps.json
+D:\SoftUni\C# Advanced\Exam\03. Repository_Скелет\Repository\bin\Debug\netcoreapp2.1\03.Repository.runtimeconfig.json
+D:\SoftUni\C# Advanced\Exam\03. Repository_Скелет\Repository\bin\Debug\netcoreapp2.1\03.Repository.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\Exam\03. Repository_Скелет\Repository\bin\Debug\netcoreapp2.1\03.Repository.dll
+D:\SoftUni\C# Advanced\Exam\03. Repository_Скелет\Repository\bin\Debug\netcoreapp2.1\03.Repository.pdb
+D:\SoftUni\C# Advanced\Exam\03. Repository_Скелет\Repository\obj\Debug\netcoreapp2.1\03.Repository.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced\Exam\03. Repository_Скелет\Repository\obj\Debug\netcoreapp2.1\03.Repository.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\Exam\03. Repository_Скелет\Repository\obj\Debug\netcoreapp2.1\03.Repository.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\Exam\03. Repository_Скелет\Repository\obj\Debug\netcoreapp2.1\03.Repository.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\Exam\03. Repository_Скелет\Repository\obj\Debug\netcoreapp2.1\03.Repository.dll
+D:\SoftUni\C# Advanced\Exam\03. Repository_Скелет\Repository\obj\Debug\netcoreapp2.1\03.Repository.pdb
